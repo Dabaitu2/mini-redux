@@ -7,5 +7,3 @@
     The codes are derived from the raw code from redux, and some tech blog, thanks them all!
 </section>
 
-## Acknowledgments
-* [@Dabaitu2](https://github.com/Dabaitu2) for building this project.
